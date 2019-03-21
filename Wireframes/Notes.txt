@@ -1,0 +1,1 @@
+This is the file where the notes for the wireframes are stored. It was created only because Git Hub Web Interface requires a file to create a folder. 
